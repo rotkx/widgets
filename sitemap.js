@@ -9,13 +9,13 @@
 // label.
 // ---------------------------------------------------
 // Author: Beautiful Beta
-// Url: http://beautifulbeta.blogspot.com
+// Url: http://www.rotkx.com
 // Version: 2
-// Date: 2007-04-12
+// Date: 09-03-2017
 // ---------------------------------------------------
-// Modified by Aneesh 
-// www.bloggerplugins.org
-// Date : 02-08-2011
+// Modified by Mahmoud Elgohary
+// http://www.rotkx.com
+// Date : 09-03-2017
 // global arrays
 
    var postTitle = new Array();     // array of posttitles
@@ -262,7 +262,7 @@ function showToc() {
      var toclink = document.getElementById("toclink");
    
   }
-  else { alert("Just wait... TOC is loading"); }
+  else { alert("انتظر جارى التحميل ...); }
 }
 
 function hideToc() {
